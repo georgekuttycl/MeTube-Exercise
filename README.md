@@ -1,2 +1,2 @@
 # MeTube-Exercise
-![alt text](http://https://github.com/georgekuttycl/MeTube-Exercise/new/master/assets/images/img.jpeg)
+![alt text](https://github.com/georgekuttycl/MeTube-Exercise/blob/master/assets/images/img.jpg))
